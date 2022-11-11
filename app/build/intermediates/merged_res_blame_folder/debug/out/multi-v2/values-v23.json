@@ -4,18 +4,7 @@
             "outputFile": "com.example.mvvm_tutorial.app-mergeDebugResources-64:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/badbcb9fa1ec271563229a19f34fa37c/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
-                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
-                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
-                    }
-                },
-                {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/164ee120d4e64ef8777eb7c042473cb3/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/5fee4d7fa42115db1b720fa45fb97d3f/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -34,7 +23,18 @@
                     }
                 },
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/6eba5d38d275bf8eedd5d31508e753c3/transformed/material-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/2b6d98b7a593efd48f376d7553fa1436/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    }
+                },
+                {
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/95c41b6498322058c802b671858b1f0f/transformed/material-1.7.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
     <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
@@ -44,7 +44,7 @@
     <string name="exposed_dropdown_menu_content_description">ဆွဲချမီနူးကို ပြရန်</string>
     <string name="icon_content_description">ဒိုင်ယာလော့ခ် သင်္ကေတ</string>
     <string msgid="6827826412747255547" name="in_progress">"ဆောင်ရွက်နေဆဲ"</string>
-    <string msgid="2486394087603402002" name="indeterminate">"အမှတ်ခြစ်မထားပါ (သို့) အမှတ်ခြစ်ပြီး"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"တစ်ဝက်တစ်ပျက် စစ်ဆေးထားသည်"</string>
     <string name="item_view_role_description">တဘ်</string>
     <string name="material_clock_toggle_content_description">AM (သို့) PM ရွေးရန်</string>
     <string name="material_hour_selection">နာရီ ရွေးရန်</string>
@@ -60,11 +60,12 @@
     <string name="material_timepicker_text_input_mode_description">အချိန်ထည့်သွင်းရန် စာသားထည့်သွင်းမှုမုဒ်သို့ ပြောင်းပါ။</string>
     <string name="mtrl_badge_numberless_content_description">အကြောင်းကြားချက်အသစ်</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s ကို ဖယ်ရှားရန်</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">အကြောင်းကြားချက်အသစ် %1$d ခု အထက်</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">အကြောင်းကြားချက်အသစ် %1$d ခု အထက်</string>
     <string name="mtrl_picker_a11y_next_month">နောက်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_a11y_prev_month">ယခင်လသို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_announce_current_selection">လက်ရှိ ရွေးချယ်မှု- %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">ပယ်ဖျက်ရန်</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">ရက်စွဲ ရွေးပါ</string>
     <string name="mtrl_picker_date_header_unselected">ရွေးထားသည့် ရက်စွဲ</string>
@@ -91,6 +92,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">ရက်ရွေးချယ်ခြင်းသို့ ပြောင်းရန် တို့ပါ</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">စာသား ထည့်သွင်းမှုမုဒ်သို့ ပြောင်းရန်</string>
     <string name="mtrl_picker_toggle_to_year_selection">နှစ်ရွေးချယ်ခြင်းသို့ ပြောင်းရန် တို့ပါ</string>
+    <string name="mtrl_timepicker_cancel">မလုပ်တော့</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"လမ်းညွှန် မီနူး"</string>
     <string msgid="6610465462668679431" name="not_selected">"ရွေးမထားပါ"</string>
     <string msgid="875452955155264703" name="off">"ပိတ်"</string>

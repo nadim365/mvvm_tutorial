@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d नयाँ सूचना</item>
     <item quantity="other">%d नयाँ सूचनाहरू</item>
@@ -44,7 +44,7 @@
     <string name="exposed_dropdown_menu_content_description">ड्रपडाउन मेनु देखाउनुहोस्</string>
     <string name="icon_content_description">संवादको आइकन</string>
     <string msgid="6827826412747255547" name="in_progress">"काम हुँदै छ"</string>
-    <string msgid="2486394087603402002" name="indeterminate">"न त चिन्ह लगाइएको छ न नै चिन्ह हटाइएको छ"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"आंशिक रूपमा जाँच गरिएको"</string>
     <string name="item_view_role_description">ट्याब</string>
     <string name="material_clock_toggle_content_description">पूर्वाह्न वा अपराह्न चयन गर्नुहोस्</string>
     <string name="material_hour_selection">घन्टा चयन गर्नुहोस्</string>
@@ -60,11 +60,12 @@
     <string name="material_timepicker_text_input_mode_description">समय इनपुट गर्न पाठ इनपुट मोडमा स्विच गर्नुहोस्।</string>
     <string name="mtrl_badge_numberless_content_description">नयाँ सूचना</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s हटाउनुहोस्</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">%1$d भन्दा बढी नयाँ सूचनाहरू</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d भन्दा बढी नयाँ सूचनाहरू</string>
     <string name="mtrl_picker_a11y_next_month">अर्को महिनामा सार्नुहोस्</string>
     <string name="mtrl_picker_a11y_prev_month">अघिल्लो महिनामा सार्नुहोस्</string>
     <string name="mtrl_picker_announce_current_selection">हालको चयन: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">रद्द गर्नुहोस्</string>
+    <string name="mtrl_picker_confirm">ठिक छ</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">मिति चयन गर्नुहोस्</string>
     <string name="mtrl_picker_date_header_unselected">चयन गरिएको मिति</string>
@@ -91,6 +92,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">कुनै दिन चयन गर्ने विकल्प प्रयोग गर्न ट्याप गर्नुहोस्</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">पाठको इनपुट मोडमा बदल्नुहोस्</string>
     <string name="mtrl_picker_toggle_to_year_selection">कुनै वर्ष चयन गर्ने विकल्प प्रयोग गर्न ट्याप गर्नुहोस्</string>
+    <string name="mtrl_timepicker_cancel">रद्द गर्नुहोस्</string>
+    <string name="mtrl_timepicker_confirm">ठिक छ</string>
     <string msgid="542007171693138492" name="navigation_menu">"नेभिगेसन मेनु"</string>
     <string msgid="6610465462668679431" name="not_selected">"चयन गरिएको छैन"</string>
     <string msgid="875452955155264703" name="off">"अफ छ"</string>

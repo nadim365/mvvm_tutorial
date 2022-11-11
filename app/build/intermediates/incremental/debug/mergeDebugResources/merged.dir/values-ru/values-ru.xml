@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d новое уведомление</item>
     <item quantity="few">%d новых уведомления</item>
@@ -46,7 +46,7 @@
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
     <string name="icon_content_description">Значок диалогового окна</string>
     <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
-    <string msgid="2486394087603402002" name="indeterminate">"Флажок не установлен и не снят"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
     <string name="material_hour_selection">Выберите час</string>
@@ -62,11 +62,12 @@
     <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
     <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
     <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Выберите дату</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
@@ -93,6 +94,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
     <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
     <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
     <string msgid="875452955155264703" name="off">"Отключено"</string>

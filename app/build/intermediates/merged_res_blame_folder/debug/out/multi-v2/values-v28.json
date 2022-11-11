@@ -4,7 +4,7 @@
             "outputFile": "com.example.mvvm_tutorial.app-mergeDebugResources-64:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/6eba5d38d275bf8eedd5d31508e753c3/transformed/material-1.6.1/res/values-v28/values-v28.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/95c41b6498322058c802b671858b1f0f/transformed/material-1.7.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/badbcb9fa1ec271563229a19f34fa37c/transformed/appcompat-1.5.1/res/values-v28/values-v28.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/2b6d98b7a593efd48f376d7553fa1436/transformed/appcompat-1.5.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

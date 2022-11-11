@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d új értesítés</item>
     <item quantity="other">%d új értesítés</item>
@@ -44,7 +44,7 @@
     <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
     <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string msgid="6827826412747255547" name="in_progress">"Folyamatban"</string>
-    <string msgid="2486394087603402002" name="indeterminate">"Sem bejelöléssel, sem bejelölés nélkül"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Részlegesen ellenőrizve"</string>
     <string name="item_view_role_description">Lap</string>
     <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
     <string name="material_hour_selection">Óra kiválasztása</string>
@@ -60,11 +60,12 @@
     <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
     <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
     <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Több mint %1$d új értesítés</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Több mint %1$d új értesítés</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">Mégse</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -91,6 +92,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
     <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string name="mtrl_timepicker_cancel">Mégse</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Navigációs menü"</string>
     <string msgid="6610465462668679431" name="not_selected">"Nincs kijelölve"</string>
     <string msgid="875452955155264703" name="off">"Ki"</string>
