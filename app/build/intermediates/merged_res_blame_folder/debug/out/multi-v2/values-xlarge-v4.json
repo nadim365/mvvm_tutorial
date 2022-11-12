@@ -4,7 +4,7 @@
             "outputFile": "com.example.mvvm_tutorial.app-mergeDebugResources-64:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/2b6d98b7a593efd48f376d7553fa1436/transformed/appcompat-1.5.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/547d131812bca6f94a765ea6deddb936/transformed/appcompat-1.5.1/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

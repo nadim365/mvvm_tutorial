@@ -4,7 +4,7 @@
             "outputFile": "com.example.mvvm_tutorial.app-mergeDebugResources-64:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/5fee4d7fa42115db1b720fa45fb97d3f/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/4703d0c9dded17f77a7b6d97f7aa712d/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/2b6d98b7a593efd48f376d7553fa1436/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/547d131812bca6f94a765ea6deddb936/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nadimac/.gradle/caches/transforms-3/95c41b6498322058c802b671858b1f0f/transformed/material-1.7.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/nadimac/.gradle/caches/transforms-3/99bc9e1a0ec7a9a43463884126ab0d1e/transformed/material-1.7.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
