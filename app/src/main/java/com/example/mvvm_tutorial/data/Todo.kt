@@ -11,7 +11,7 @@ data class Todo(
     @PrimaryKey val id: Int? = null
 )
 //Step 1 :
-/*
+/**
 * When it comes to databases, especially SQL databases which Room implements (SQLite Database).
 * We first need an "Entity" which is the table or class that contains the data that we want to save.
 

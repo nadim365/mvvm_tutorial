@@ -9,14 +9,14 @@ import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface TodoDao {
-    //Step 2
-    /*
+    /**
+     * Step 2
     * Dao stands for Data Access Object
     * it is used to access our data.
     * It defines the different ways we want to access our data
      */
 
-    /*
+    /**
     * The "suspend" keyword used here is used to
     * suspend the current function where this function is called
     * until we actually get the result, so until we actually
@@ -39,7 +39,7 @@ interface TodoDao {
 
     @Query("SELECT * FROM todo")
     fun getTodos(): Flow<List<Todo>>
-    /*
+    /**
     * This Flow means that we get real-time updates
     * as soon as something in our database changes
     * for example when we insert or delete a todo
